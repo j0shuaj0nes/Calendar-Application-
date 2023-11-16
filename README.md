@@ -10,19 +10,19 @@ Users are able to keep track of appointments, meeting and events. This app aids 
 
 To use this app, first open the calendar application and the user will be presented with a series of time blocks for a normal working day, starting at 9am and finishing at 5pm. 
 
-[Intitial Display](./images/Screenshot%202023-11-16%20at%209.51.37 pm.png)
+![Intitial Display](./images/Screenshot%202023-11-16%20at%209.51.37 pm.png)
 
 Users are then able to select a desired time block in their working day and enter an event in the selected hour. 
 
-[Enter Event](./images/Screenshot%202023-11-16%20at%209.52.18 pm.png)
+![Enter Event](./images/Screenshot%202023-11-16%20at%209.52.18 pm.png)
 
 The user can then save the scheduled event by clicking on the save icon to the right of the desired timeblock. 
 
-[Save Event](./images/Screenshot%202023-11-16%20at%209.52.41 pm.png)
+![Save Event](./images/Screenshot%202023-11-16%20at%209.52.41 pm.png)
 
 If the page is refreshed or the user refreshes their page, the scheduled event will persist, unless the user alters or removes the content of the event in their schedule. Any removal or alteration of an event must also be saved or the previous content will reapply when the page is reloaded again. 
 
-[Reload or Refresh Page](./images/Screenshot%202023-11-16%20at%209.54.16 pm.png)
+![Reload or Refresh Page](./images/Screenshot%202023-11-16%20at%209.54.16 pm.png)
 
 ## Credits
 jQuery - https://jquery.com/
@@ -31,3 +31,4 @@ Font Awesome - https://fontawesome.com/start
 Google Fonts - https://fonts.google.com/
 Programming with Mosh - https://www.youtube.com/watch?v=PFmuCDHHpwk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=3 
 
+## [Link]() to deployed webpage 
