@@ -20,7 +20,7 @@ The user can then save the scheduled event by clicking on the save icon to the r
 
 ![Save Event](./images/Screenshot%202023-11-16%20at%209.52.41 pm.png)
 
-If the page is refreshed or the user refreshes their page, the scheduled event will persist, unless the user alters or removes the content of the event in their schedule. Any removal or alteration of an event must also be saved or the previous content will reapply when the page is reloaded again. 
+If the page is reloaded or the user refreshes their page, the scheduled event will persist, unless the user alters or removes the content of the event in their schedule. Any removal or alteration of an event must also be saved or the previous content will reapply when the page is reloaded again. 
 
 ![Reload or Refresh Page](./images/Screenshot%202023-11-16%20at%209.54.16 pm.png)
 
