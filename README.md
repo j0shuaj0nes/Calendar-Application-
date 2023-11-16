@@ -8,27 +8,27 @@ Users are able to keep track of appointments, meeting and events. This app aids 
 
 ## Usage
 
-To use this app, first open the calendar application and the user will be presented with a series of time blocks for a normal working day, starting at 9am and finishing at 5pm. 
+To use this app, first open the calendar application and the user will be presented with a series of time blocks for a normal working day, starting at 9am and finishing at 5pm. See screenshot below.
 
 ![Intitial Display](./images/Screenshot%202023-11-16%20at%209.51.37 pm.png)
 
-Users are then able to select a desired time block in their working day and enter an event in the selected hour. 
+Users are then able to select a desired time block in their working day and enter an event in the selected hour. See screenshot below.
 
 ![Enter Event](./images/Screenshot%202023-11-16%20at%209.52.18 pm.png)
 
-The user can then save the scheduled event by clicking on the save icon to the right of the desired timeblock. 
+The user can then save the scheduled event by clicking on the save icon to the right of the desired timeblock. See screenshot below. 
 
 ![Save Event](./images/Screenshot%202023-11-16%20at%209.52.41 pm.png)
 
-If the page is reloaded or the user refreshes their page, the scheduled event will persist, unless the user alters or removes the content of the event in their schedule. Any removal or alteration of an event must also be saved or the previous content will reapply when the page is reloaded again. 
+If the page is reloaded or the user refreshes their page, the scheduled event will persist, unless the user alters or removes the content of the event in their schedule. Any removal or alteration of an event must also be saved or the previous content will reapply when the page is reloaded again. See screenshot below.
 
 ![Reload or Refresh Page](./images/Screenshot%202023-11-16%20at%209.54.16 pm.png)
 
 ## Credits
-jQuery - https://jquery.com/
-jsDelivr - https://www.jsdelivr.com/
-Font Awesome - https://fontawesome.com/start
-Google Fonts - https://fonts.google.com/
+jQuery - https://jquery.com/ <br>
+jsDelivr - https://www.jsdelivr.com/ <br>
+Font Awesome - https://fontawesome.com/start <br>
+Google Fonts - https://fonts.google.com/ <br>
 Programming with Mosh - https://www.youtube.com/watch?v=PFmuCDHHpwk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=3 
 
 ## [Link]() to deployed webpage 
